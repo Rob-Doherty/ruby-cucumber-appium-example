@@ -19,7 +19,6 @@ ANDROID_CAPABILITIES = {
     avd:                'Pixel_3_API_29',
     app:                ANDROID_APP,
     automationName:     'UiAutomator2',
-    appWaitActivity:    'com.talksport.tsliveen.*',
     autoAcceptAlerts:   'true'
 }
 

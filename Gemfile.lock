@@ -96,9 +96,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport (~> 6.0)
   appium_lib (~> 10.6)
   cucumber (~> 4.1)
-  pry (~> 0.13.1)
   pry-byebug (~> 3.9)
 
 BUNDLED WITH

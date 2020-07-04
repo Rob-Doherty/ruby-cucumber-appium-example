@@ -1,3 +1,4 @@
+@ios_only
 Feature: Calculator
 
   Scenario Outline: Add two numbers

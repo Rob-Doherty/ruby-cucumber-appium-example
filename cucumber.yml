@@ -1,3 +1,3 @@
 # Cucumber profiles
-ios: platform=ios
-android: platform=android
+ios: platform=ios -t 'not @android_only'
+android: platform=android -t 'not @ios_only'

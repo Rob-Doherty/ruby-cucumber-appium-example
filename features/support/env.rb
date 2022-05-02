@@ -6,8 +6,8 @@ ANDROID_APP = './apps/android/example.apk'
 
 IOS_CAPABILITIES = {
     platformName:       'iOS',
-    platformVersion:    '13.3',
-    deviceName:         'iPhone 11 Pro',
+    platformVersion:    '15.0',
+    deviceName:         'iPhone 13',
     app:                IOS_APP,
     automationName:     'XCUITest'
 }

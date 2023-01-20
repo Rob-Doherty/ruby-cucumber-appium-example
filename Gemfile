@@ -8,5 +8,5 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "cucumber", "~> 4.1"
 gem "appium_lib", "~> 10.6"
-gem "activesupport", "~> 6.0"
+gem "activesupport", "~> 6.1"
 gem "pry-byebug", "~> 3.9"
